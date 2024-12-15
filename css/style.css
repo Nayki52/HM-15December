@@ -1,0 +1,23 @@
+.post-title {
+  color: pink;
+}
+
+p {
+  color: grey;
+}
+
+.post-description {
+  color: black;
+}
+
+div {
+  color: red;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
